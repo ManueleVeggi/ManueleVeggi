@@ -4,4 +4,4 @@
 
 * I try to use digital methods to make arts and culture just a click away! If you are interested, you can have a look at my [portfolio](https://www.google.com) 🗂
 
-* If you want, you can contact me at [manuele.veggi@gmail.com](mailto:manuele.veggi@gmail.com) 📬
+* If you want, you can contact me at [manuele.veggi@gmail.com](mailto:manuele.veggi@gmail.com) (personal address) or at [manuele.veggi@studio.unibo.it](mailto:manuele.veggi@studio.unibo.it) (institutional address) 📬
