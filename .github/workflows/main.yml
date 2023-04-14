@@ -12,4 +12,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: manuele-veggi # optional, but default will use the same from github
+          CREDLY_USER: manuele.veggi@gmail.com # optional, but default will use the same from github
