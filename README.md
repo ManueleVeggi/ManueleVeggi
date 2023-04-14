@@ -4,10 +4,8 @@ I am graduating in Interaction Design at the [ MA "Digital Humanities and Digita
 
 <a href="https://github.com/ManueleVeggi/dhdkPortfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ManueleVeggi&repo=dhdkPortfolio"/></a>
 
-### My programming languages, design & development tools
-
 <details>
-    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+    <summary><b>🛠️ My programming languages & tools</b></summary><br/>
   
   **Coding**
  
@@ -22,8 +20,6 @@ I am graduating in Interaction Design at the [ MA "Digital Humanities and Digita
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />      
     
 </details>
-
-<img witdth=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 
 
 ### Contact
