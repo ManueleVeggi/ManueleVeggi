@@ -17,7 +17,9 @@ I am graduating in Interaction Design at the [ Master Degree in "Digital Humanit
   
   **Game Engine**
   
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />      
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" />
+          
     
 </details>
 
