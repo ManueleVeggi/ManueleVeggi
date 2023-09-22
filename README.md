@@ -1,6 +1,6 @@
 ## Hello! 🎈
 
-I am graduating in Interaction Design at the [ Master Degree in "Digital Humanities and Digital Knowledge"](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) - University of Bologna. If you are interested, you can have a look at my Master degree portfolio! 
+I am a Digital Humanist, focusing on Interaction Design and Semantic Web for Cultural Heritage. If you are interested, you can have a look at my Master degree portfolio! 
 
 <a href="https://github.com/ManueleVeggi/dhdkPortfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ManueleVeggi&repo=dhdkPortfolio"/></a>
 
