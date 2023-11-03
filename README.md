@@ -30,4 +30,4 @@ If you want, you can contact me at [manuele.veggi@uniroma1.it](mailto:manuele.ve
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manuele-veggi/) 
 [![](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5958-2100)
-<!-- [![](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]() -->
+<!-- [![](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5bg-C28AAAAJ&hl=it) -->
