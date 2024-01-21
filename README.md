@@ -1,6 +1,6 @@
 ## Hello! 🎈
 
-I am a PhD candidate in Digital Transition for Heritage, focusing on Interaction Design and Semantic Web for Cultural Heritage. If you are interested, you can have a look at my Master degree portfolio! 
+I am a PhD candidate in Digital Transition for Heritage, focusing on Interaction Design and Semantic Web for Cultural Heritage. If you are interested, have a look at my projects in my repositories and in my [Master degree portfolio](https://github.com/ManueleVeggi/dhdkPortfolio)! 
 
 <a href="https://github.com/ManueleVeggi/dhdkPortfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ManueleVeggi&repo=dhdkPortfolio"/></a>
 
