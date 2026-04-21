@@ -14,7 +14,7 @@ I am a PhD candidate in Digital Transition for Heritage, focusing on Interaction
 
   - [**Catalogue of Renaissance Terracotta**](https://www.c-re-te.it/) Front-end developer of the technical infrastructure of the web Catalogue of Renaissance Terracotta (C.Re.Te., 2024-2025)
   - [**Reconstruction of the Brancacci Chapel in the Semantic Web**](https://github.com/cnr-ispc-dhilab-fi/branco) Development of an ontology to streamline reconstruction data management of the Brancacci Chapel (CNR ISPC, 2024)
-  - [**Art Market Ontology**](https://github.com/fondazerimv/zamo) Development of an ontology describing the art market (Fondazione Federico Zeri / Collegio Superiore - University of Bologna, 2023)
+  - [**Art Market Ontology**](https://github.com/FondazioneFedericoZeri/zamo) Development of an ontology describing the art market (Fondazione Federico Zeri / Collegio Superiore - University of Bologna, 2023)
 
 <h4>University Projects</h4>
 
